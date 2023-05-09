@@ -1,0 +1,73 @@
+body {
+  font-family: "Comfortaa", cursive;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.card {
+  background-color: #f6efec;
+}
+.city {
+  color: black;
+  font-weight: 900;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 50px;
+}
+.city-temperature {
+  font-weight: 900;
+  font-size: 35px;
+  text-align: center;
+  padding-top: 20px;
+}
+.units {
+  display: block;
+  font-weight: 900;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 5px;
+}
+.current-data {
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left;
+  padding-top: 80px;
+  padding-left: 150px;
+}
+.current-weather {
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left;
+  padding-left: 150px;
+}
+.high-low {
+  font-weight: 600;
+  text-align: left;
+  padding-top: 10px;
+  padding-left: 150px;
+  color: grey;
+}
+.week-view {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  color: grey;
+  border: 4px solid #b6e2f7;
+  border-radius: 30px;
+  padding: 20px 10px 20px 10px;
+}
+.main-icon {
+  font-size: 150px;
+  margin-left: 600px;
+  position: relative;
+  top: -180px;
+  left: 300px;
+}
+.weather-icons {
+  font-size: 40px;
+}
+.search-buttons {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
